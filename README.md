@@ -10,13 +10,6 @@ The app allows users to select their starting station and destination, then disp
 - Quick access to recent trips
 - Simple and clean user interface
 
-## Screenshots
-
-### Home Screen
-![Home Screen](screenshots/home.png)
-
-### Trip Details
-![Trip Details](screenshots/trip.png)
 
 ## Tech Stack
 - Kotlin

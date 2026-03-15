@@ -33,14 +33,13 @@ This app is designed for people who use the Cairo Metro and want a simple way to
 - Estimated arrival time
 - Dark mode support
 
-- ## Color Reference
+## Color Reference
 
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#F2F0EB](https://dummyimage.com/10/0a192f/white?text=+) #F2F0EB |
-| Example Color | ![#F22233](https://dummyimage.com/10/f8f8f8/white?text=+) #F22233 |
-| Example Color | ![#0367A6](https://dummyimage.com/10/00b48a/white?text=+) #0367A6 |
-| Example Color | ![#262626](https://dummyimage.com/10/00d1a0/white?text=+)) #262626 |
+| Color | Hex |
+|------|-----|
+| Red | ![#FF0000](https://dummyimage.com/10/ff0000/000000?text=+) #FF0000 |
+| Green | ![#00FF00](https://dummyimage.com/10/00ff00/000000?text=+) #00FF00 |
+| Blue | ![#0000FF](https://dummyimage.com/10/0000ff/ffffff?text=+) #0000FF |
 
 ## Badges
 

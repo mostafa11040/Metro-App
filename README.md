@@ -37,10 +37,10 @@ This app is designed for people who use the Cairo Metro and want a simple way to
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Example Color | ![#0a192f](https://dummyimage.com/10/0a192f/white?text=+) #f7f5ef |
-| Example Color | ![#f8f8f8](https://dummyimage.com/10/f8f8f8/white?text=+) #e4e4e4 |
-| Example Color | ![#00b48a](https://dummyimage.com/10/00b48a/white?text=+) #ee1d23 |
-| Example Color | ![#00d1a0](https://dummyimage.com/10/00d1a0/white?text=+)) #EE1D23FF |
+| Example Color | ![#0a192f](https://dummyimage.com/10/0a192f/white?text=+) #F2F0EB |
+| Example Color | ![#f8f8f8](https://dummyimage.com/10/f8f8f8/white?text=+) #F22233 |
+| Example Color | ![#00b48a](https://dummyimage.com/10/00b48a/white?text=+) #0367A6 |
+| Example Color | ![#00d1a0](https://dummyimage.com/10/00d1a0/white?text=+)) #262626 |
 
 ## Badges
 
